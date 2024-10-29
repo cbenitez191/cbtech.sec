@@ -1,9 +1,9 @@
-<!-- Bienvenida perfil -->
+<!-- Welcome profile -->
 <div align="center">
 <h1 align="center">👋 Hi! <a href="https://cbenitez.net">I'm Carlos Benitez</a></h1>
 </div>
 
-<!-- Vistas perfil -->
+<!-- Profile views -->
 <br>
 <p align = "center">
 	<img src="https://komarev.com/ghpvc/?username=cbenitez191&label=Profile%20views&color=brightgreen&style=plastic?" alt="cbenitez191" height=20px, width=140px/> 
@@ -11,6 +11,8 @@
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+
+<!-- About Me -->
 
 <h1 align="center"><img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/about_me.gif?raw=true" width = 50px></picture>About Me</h1>
 
@@ -140,7 +142,7 @@
 <br>
 
 <!-- Métricas -->
-<h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/Jfw2.gif?raw=true" width = 50px>  </picture>GitHub Analytics</h1>
+<h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/74pZ.gif?raw=true" width = 50px>  </picture>GitHub Analytics</h1>
  <br>
 
 <p align="center">
