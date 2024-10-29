@@ -142,7 +142,7 @@
 <br>
 
 <!-- Métricas -->
-<h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/74pZ.gif?raw=true" width = 50px>  </picture>GitHub Analytics</h1>
+<h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/NY0y.gif?raw=true" width = 50px>  </picture>GitHub Analytics</h1>
  <br>
 
 <p align="center">
@@ -153,9 +153,9 @@
 </p>
 
 <!-- Redes sociales -->
-
 <br>
-<h1 align="center" > <img src="https://github.com/cbenitez191/cbenitez191/blob/main/img/NY0y.gif?raw=true" width="30" height="30" style="margin-right: 10px;">Contacto 🤝 </h1>
+<h1 align="center"><img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/7SiC.gif?raw=true" width = 50px></picture>About Me</h1>
+<h1 align="center" > <img src="" width="30" height="30" style="margin-right: 10px;">Contacto 🤝</h1>
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/cbenitez191">
