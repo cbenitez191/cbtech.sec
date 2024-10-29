@@ -34,7 +34,7 @@
     		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Administracion-servidores-windows&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/cbenitez191/Recopilacion-de-recursos-Pentesting">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Recopilacion-de-recursos-Pentesting&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/cbenitez191/Aprendinedo_Python">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
