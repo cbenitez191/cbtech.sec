@@ -37,22 +37,22 @@
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Recopilacion-de-recursos-Pentesting&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/cbenitez191/Aprendinedo_Python">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Aprendinedo_Python&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/cbenitez191/Generador-password-python">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Generador-password-python=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/cbenitez191/Comprobar-directorio-Linux">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/cbenitez191/Comprobar-directorio-Linux">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Comprobar-directorio-Linux&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/cbenitez191/Layout">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Shorten-Link&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Layout&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/cbenitez191/cbenitez191">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=cbenitez191&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/cbenitez191/">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=ctez191&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/cbenitez191/Competitive-Programming-Session-Content">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Competitive-Programming-Session-Content&theme=tokyonight" alt="GitHub Stats" />
