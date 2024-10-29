@@ -93,10 +93,9 @@
   </p>
 </div>
 </details>
-
 <br>
 
-### ⚙️ &nbsp;GitHub Analytics
+<div align="center">⚙️ &nbsp;<h1>GitHub Analytics</h1></div>
 
 <p align="center">
 <a href="https://github.com/cbenitez191">
