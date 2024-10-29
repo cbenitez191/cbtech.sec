@@ -24,7 +24,7 @@
 <br>
 
 <!-- Listado repositorios -->
-<details><summary><h1> :open_file_folder: My Repositories </h1></summary>
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 ----------------
 <div>
   <p align="center">
