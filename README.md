@@ -2,6 +2,7 @@
 <h1 align="center">👋 Hola! <a href="https://cbenitez.net">Soy Carlos Benitez</a></h1>
 </div>
 
+
 <p align = "center">
 	<img src="https://komarev.com/ghpvc/?username=cbenitez191-profile&style=plastic&color=blueviolet" alt="Profile Views"/>
 </p>
@@ -26,6 +27,7 @@
 </p>
 
 
+<---
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
