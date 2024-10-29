@@ -140,17 +140,15 @@
 <br>
 
 <!-- Métricas -->
-<h1 align="center">⚙️ GitHub Analytics</h1>
-	
+<h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/Jfw2.gif?raw=true" width = 50px>  </picture>GitHub Analytics</h1>
+ <br>
+
 <p align="center">
 <a href="https://github.com/cbenitez191">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cbenitez191&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cbenitez191&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-
-
 
 <!-- Redes sociales -->
 
