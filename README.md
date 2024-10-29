@@ -12,8 +12,7 @@
 <div align="center">
 
 <br>
-<h1 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contacto 🤝 </h1>
-<br>
+<h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contacto 🤝 </h2>
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/cbenitez191">
@@ -27,9 +26,11 @@
       </div>
 </p>
 
-<br><br>
-<!--Intro start-->
-- 🔭 Actualmente estoy trabajando en **AWS, Python, ciberseguridad, y desarrollo de herramientas de automatización**.
+<br>
+
+## Sobre mi
+
+- 🔭 Actualmente estoy trabajando en **Administrador de Sistemas,  ciberseguridad, y desarrollo de herramientas de automatización**.
 
 - 🌱 Estoy aprendiendo **a mejorar mis habilidades en programación y desarrollo de aplicaciones con Python**.
 
@@ -37,13 +38,7 @@
 
 - 📝 Regularmente escribo artículos sobre tecnología y desarrollo en [Hashnode](https://tuusuario.hashnode.dev/) (actualiza el enlace).
 
-- 💬 Pregúntame sobre **AWS, Python, ciberseguridad, y automatización**.
-
 - 📫 No dudes en contactarme a través de **cbenitez191@gmail.com**.
-
-- 🏠 ¡No dudes en saludarme en Discord! – [cbenitez191](https://discordapp.com/users/tuID) (actualiza con tu ID).
-<!--Intro end-->
-
 
 
 ### ⚙️ &nbsp;GitHub Analytics
