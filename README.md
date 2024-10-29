@@ -51,45 +51,7 @@
 	<a href="https://github.com/cbenitez191/cbenitez191">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=cbenitez191&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/cbenitez191/">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=ctez191&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/cbenitez191/Competitive-Programming-Session-Content">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Competitive-Programming-Session-Content&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/cbenitez191/VS-Code-for-CP">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=VS-Code-for-CP&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/cbenitez191/Sorting-Algorithms">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Sorting-Algorithms&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/cbenitez191/board-link-generator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=board-link-generator&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/cbenitez191/Tic-Tac-Toe-GUI">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Tic-Tac-Toe-GUI&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/cbenitez191/PhoneBook-System">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=PhoneBook-System&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/cbenitez191/Codeforces-Sheet-Generator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Codeforces-Sheet-Generator&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/cbenitez191/CP-Calendar">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=CP-Calendar&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/cbenitez191/Codeforces-Friends-Script">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Codeforces-Friends-Script&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/cbenitez191/vJudge-Board-Scrapper">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=vJudge-Board-Scrapper&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/cbenitez191/CP-Templates-Snippets">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=CP-Templates-Snippets&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/cbenitez191/Udemy-Website">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
+	
   </p>
 </div>
 </details>
