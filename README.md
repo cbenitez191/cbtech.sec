@@ -14,13 +14,14 @@
 <div align="center">
 	
 ## Sobre mi
-<br>
+<div style="text-align: left;">
 
 - 🔭 Actualmente estoy trabajando en **Administración de Sistemas, ciberseguridad, y desarrollo de herramientas de automatización**.
 - 🌱 Estoy aprendiendo **a mejorar mis habilidades en programación y desarrollo de aplicaciones con Python**.
 - ☁️ Tengo un gran interés en la computación en la nube, así que estoy aprendiendo más sobre **AWS y sus servicios**.
 - 📝 Regularmente escribo artículos sobre tecnología y desarrollo en [Hashnode](https://cbenitez.net/blog).
 - 📫 No dudes en contactarme a través de **cbenitez191@gmail.com**.
+</div>
 <br>
 
 <!-- Listado repositorios -->
