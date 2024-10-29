@@ -12,15 +12,14 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 <div align="center">
-<div style="text-align: left;">
-    ## Sobre mí
+	
+## Sobre mí
 
     - 🔭 Actualmente estoy trabajando en **Administración de Sistemas, ciberseguridad, y desarrollo de herramientas de automatización**.
     - 🌱 Estoy aprendiendo **a mejorar mis habilidades en programación y desarrollo de aplicaciones con Python**.
     - ☁️ Tengo un gran interés en la computación en la nube, así que estoy aprendiendo más sobre **AWS y sus servicios**.
     - 📝 Regularmente escribo artículos sobre tecnología y desarrollo en [Hashnode](https://cbenitez.net/blog).
     - 📫 No dudes en contactarme a través de **cbenitez191@gmail.com**.
-</div>
 <br>
 
 <!-- Listado repositorios -->
