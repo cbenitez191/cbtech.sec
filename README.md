@@ -1,7 +1,9 @@
+<!-- Bienvenida perfil -->
 <div align="center">
 <h1 align="center">👋 Hola! <a href="https://cbenitez.net">Soy Carlos Benitez</a></h1>
 </div>
 
+<!-- Vistas perfil -->
 <br>
 <p align = "center">
 	<img src="https://komarev.com/ghpvc/?username=cbenitez191-profile&style=plastic&color=blueviolet" alt="Profile Views"/>
@@ -11,6 +13,7 @@
 </p>
 <div align="center">
 
+<!-- Redes sociales -->
 <br>
 <h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contacto 🤝 </h2>
 <p align="center">
@@ -25,20 +28,19 @@
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
       </div>
 </p>
-
 <br>
 
 ## Sobre mi
 
-- 🔭 Actualmente estoy trabajando en **Administrador de Sistemas,  ciberseguridad, y desarrollo de herramientas de automatización**.
+ 🔭 Actualmente estoy trabajando en **Administración de Sistemas,  ciberseguridad, y desarrollo de herramientas de automatización**.
 
-- 🌱 Estoy aprendiendo **a mejorar mis habilidades en programación y desarrollo de aplicaciones con Python**.
+ 🌱 Estoy aprendiendo **a mejorar mis habilidades en programación y desarrollo de aplicaciones con Python**.
 
-- ☁️ Tengo un gran interés en la computación en la nube, así que estoy aprendiendo más sobre **AWS y sus servicios**.
+ ☁️ Tengo un gran interés en la computación en la nube, así que estoy aprendiendo más sobre **AWS y sus servicios**.
 
-- 📝 Regularmente escribo artículos sobre tecnología y desarrollo en [Hashnode](https://tuusuario.hashnode.dev/) (actualiza el enlace).
+ 📝 Regularmente escribo artículos sobre tecnología y desarrollo en [Hashnode](https://tuusuario.hashnode.dev/) (actualiza el enlace).
 
-- 📫 No dudes en contactarme a través de **cbenitez191@gmail.com**.
+ 📫 No dudes en contactarme a través de **cbenitez191@gmail.com**.
 
 
 ### ⚙️ &nbsp;GitHub Analytics
