@@ -1,12 +1,12 @@
 <!-- Bienvenida perfil -->
 <div align="center">
-<h1 align="center">👋 Hola! <a href="https://cbenitez.net">Soy Carlos Benitez</a></h1>
+<h1 align="center">👋 Hi! <a href="https://cbenitez.net">I'm Carlos Benitez</a></h1>
 </div>
 
 <!-- Vistas perfil -->
 <br>
 <p align = "center">
-	<img src="https://komarev.com/ghpvc/?username=cbenitez191-profile&style=plastic&color=blueviolet" alt="Profile Views"/>
+	<img src="https://komarev.com/ghpvc/?username=cbenitez191&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 </p>
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
