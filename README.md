@@ -33,6 +33,33 @@
  
 <p align="center">
   &emsp;
+    <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"></a>
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
+  &emsp;
+    <a href="https://www.python.org/">
+    <img alt="Python" src="https://img.shields.io/badge/Python-%233B77A0.svg?style=plastic&logo=python&logoColor=white"></a>
+  &emsp;
+    <a href="https://pandas.pydata.org/">
+    <img src="https://img.shields.io/badge/Pandas-%230A8E3D.svg?style=plastic&logo=pandas&logoColor=white" alt="Pandas"></a>
+  &emsp;
+    <a href="https://www.os.org/">
+    <img src="https://img.shields.io/badge/Operating%20System-%230066CC.svg?style=plastic&logo=linux&logoColor=white" alt="Operating System"></a>
+  &emsp;
+    <a href="https://www.gnu.org/software/bash/">
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-%234EAA27.svg?style=plastic&logo=gnu-bash&logoColor=white"></a> 
+  &emsp;
+    <a href="https://www.w3.org/Style/CSS/">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?style=plastic&logo=css3&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.watchguard.com/">
+    <img src="https://img.shields.io/badge/WatchGuard-%23D92D2A.svg?style=plastic&logo=watchguard&logoColor=white" alt="WatchGuard"></a>
+  &emsp;	
     <a href="https://www.kali.org/">
     <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-%231E9B5D.svg?style=plastic&logo=kali-linux&logoColor=white"></a>
   &emsp;
@@ -50,21 +77,7 @@
   &emsp;
      <a href="https://www.metasploit.com/">
     <img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-%23000C0C.svg?style=plastic&logo=metasploit&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
-  &emsp;
-    <a href="https://www.python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-%233B77A0.svg?style=plastic&logo=python&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.gnu.org/software/bash/">
-    <img alt="Bash" src="https://img.shields.io/badge/Bash-%234EAA27.svg?style=plastic&logo=gnu-bash&logoColor=white"></a> 
-  &emsp;
-    <a href="https://www.w3.org/Style/CSS/">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?style=plastic&logo=css3&logoColor=white"></a>
+  
 </p>
 <br>
 
