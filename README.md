@@ -12,7 +12,7 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-<h1 align="center">About Mei<img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/about_me.gif?raw=true" width = 50px></picture></h1>
+<h1 align="center"><img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/about_me.gif?raw=true" width = 50px></picture>About Me</h1>
 <br>
 
 - 🔭 Actualmente estoy trabajando en **Administración de Sistemas, ciberseguridad, y desarrollo de herramientas de automatización**.
