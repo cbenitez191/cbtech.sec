@@ -25,7 +25,9 @@
 
 <!-- Listado repositorios -->
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
-----------------
+
+----
+	
 <div>
   <p align="center">
 	<a href="https://github.com/cbenitez191/LeetCode_DailyChallenge_2023">
@@ -91,6 +93,7 @@
   </p>
 </div>
 </details>
+
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
