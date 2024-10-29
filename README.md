@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hola! <a href="https://cbenitez.net">Soy Carlos Benitez</a></h1>
 </div>
 
-
+<br>
 <p align = "center">
 	<img src="https://komarev.com/ghpvc/?username=cbenitez191-profile&style=plastic&color=blueviolet" alt="Profile Views"/>
 </p>
@@ -11,7 +11,8 @@
 </p>
 <div align="center">
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<br>
+<h1 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contacto 🤝 </h1>
 
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
@@ -27,18 +28,22 @@
 </p>
 
 
-<---
-Here are some ideas to get you started:
+<!--Intro start-->
+- 🔭 Actualmente estoy trabajando en **AWS, Python, ciberseguridad, y desarrollo de herramientas de automatización**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Estoy aprendiendo **a mejorar mis habilidades en programación y desarrollo de aplicaciones con Python**.
+
+- ☁️ Tengo un gran interés en la computación en la nube, así que estoy aprendiendo más sobre **AWS y sus servicios**.
+
+- 📝 Regularmente escribo artículos sobre tecnología y desarrollo en [Hashnode](https://tuusuario.hashnode.dev/) (actualiza el enlace).
+
+- 💬 Pregúntame sobre **AWS, Python, ciberseguridad, y automatización**.
+
+- 📫 No dudes en contactarme a través de **cbenitez191@gmail.com**.
+
+- 🏠 ¡No dudes en saludarme en Discord! – [cbenitez191](https://discordapp.com/users/tuID) (actualiza con tu ID).
+<!--Intro end-->
+
 
 
 ### ⚙️ &nbsp;GitHub Analytics
