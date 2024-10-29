@@ -47,8 +47,8 @@
 
 <!-- Listado repositorios -->
 
-<details align="center"><summary><h1> :open_file_folder: My Repositories </h1></summary>
-<h1></h1>
+<details align="center"><summary><h1> :open_file_folder: My Repositories </h1><h1></h1></summary>
+
 ----
 	
 <div>
