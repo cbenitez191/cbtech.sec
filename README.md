@@ -26,8 +26,7 @@
  📫 No dudes en contactarme a través de **cbenitez191@gmail.com**.
 <br>
 
-<---Listado repositorios --->
-
+<!-- Listado repositorios -->
 <details><summary><h1> :open_file_folder: My Repositories </h1></summary>
 
 <div>
