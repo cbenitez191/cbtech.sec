@@ -26,7 +26,10 @@
 
 <br>
 
- <h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/OS.gif?raw=true" width = 50px>  </picture> Operating Systems</h1>
+<!-- Sistemas Operativos -->
+
+ <h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/OS.gif?raw=true" width = 50px>  </picture> Sistemas operativos</h1>
+ <br>
  
 <p align="center">
   &emsp;
@@ -40,10 +43,12 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
 </p>
+<br>
 
 <!-- Listado repositorios -->
-<details align="center"><summary><h1> :open_file_folder: My Repositories </h1></summary>
 
+<details align="center"><summary><h1> :open_file_folder: My Repositories </h1></summary>
+<h1></h1>
 ----
 	
 <div>
