@@ -11,8 +11,8 @@
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
-	
-<div align="center"><h1>Sobre mi</h1></div>
+
+<h1 align="center">Sobre mi</h1>
 <br>
 
 - 🔭 Actualmente estoy trabajando en **Administración de Sistemas, ciberseguridad, y desarrollo de herramientas de automatización**.
@@ -24,7 +24,7 @@
 <br>
 
 <!-- Listado repositorios -->
-<details><summary><h2> :open_file_folder: My Repositories </h2></summary>
+<details align="center"><summary><h2> :open_file_folder: My Repositories </h2></summary>
 
 ----
 	
@@ -95,8 +95,9 @@
 </details>
 <br>
 
-<div align="center">⚙️ &nbsp;<h1>GitHub Analytics</h1></div>
-
+<!-- Métricas -->
+<h1 align="center">⚙️ &nbsp;<h1>GitHub Analytics</h1>
+	
 <p align="center">
 <a href="https://github.com/cbenitez191">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cbenitez191&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
