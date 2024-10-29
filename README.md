@@ -13,6 +13,9 @@
 </p>
 
 <h1 align="center"><img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/about_me.gif?raw=true" width = 50px></picture>About Me</h1>
+
+<picture> <img align="right" src="https://github.com/cbenitez191/cbenitez191/blob/main/img/Right_Side.gif?raw=true" width = 250px></picture>
+
 <br>
 
 - 🔭 Actualmente estoy trabajando en **Administración de Sistemas, ciberseguridad, y desarrollo de herramientas de automatización**.
