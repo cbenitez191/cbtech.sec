@@ -23,7 +23,7 @@
 
 <br>
 
- <h1 align="center"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems</h1>
+ <h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/OS.gif?raw=true" width = 50px>  </picture> Operating Systems</h1>
  
 <p align="center">
   &emsp;
