@@ -40,7 +40,7 @@
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Aprendinedo_Python&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/cbenitez191/Generador-password-python">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Generador-password-python=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Generador-password-python&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/cbenitez191/Comprobar-directorio-Linux">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Comprobar-directorio-Linux&theme=tokyonight" alt="GitHub Stats" />
