@@ -13,6 +13,7 @@
 </p>
 	
 <div align="center"><h1>Sobre mi</h1></div>
+<br>
 
 - 🔭 Actualmente estoy trabajando en **Administración de Sistemas, ciberseguridad, y desarrollo de herramientas de automatización**.
 - 🌱 Estoy aprendiendo **a mejorar mis habilidades en programación y desarrollo de aplicaciones con Python**.
@@ -23,7 +24,7 @@
 <br>
 
 <!-- Listado repositorios -->
-<details><summary><h2> :open_file_folder: My Repositories </h2></summary>
+<details><summary><h1> :open_file_folder: My Repositories </h1></summary>
 
 ----
 	
