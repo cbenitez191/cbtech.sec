@@ -24,31 +24,31 @@
 <br>
 
 <!-- Listado repositorios -->
-<details align="center"><summary><h2> :open_file_folder: My Repositories </h2></summary>
+<details align="center"><summary><h1> :open_file_folder: My Repositories </h1></summary>
 
 ----
 	
 <div>
   <p align="center">
-	<a href="https://github.com/cbenitez191/LeetCode_DailyChallenge_2023">
+	<a href="https://github.com/cbenitez191/Administracion-servidores-windows">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/cbenitez191/Ahmed-Hossam">
+	<a href="https://github.com/cbenitez191/Recopilacion-de-recursos-Pentesting">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/cbenitez191/Strees_Testing">
+    	<a href="https://github.com/cbenitez191/Aprendinedo_Python">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/cbenitez191/CP-Templates">
+    	<a href="https://github.com/cbenitez191/Generador-password-python">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/cbenitez191/Codeforces-Polygon-Template">
+    	<a href="https://github.com/cbenitez191/Comprobar-directorio-Linux">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/cbenitez191/Some-Linux-Commands">
+	<a href="https://github.com/cbenitez191/Comprobar-directorio-Linux">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/cbenitez191/Shorten-Link">
+	<a href="https://github.com/cbenitez191/Layout">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Shorten-Link&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/cbenitez191/cbenitez191">
@@ -107,7 +107,7 @@
 
 <!-- Redes sociales -->
 <br>
-<h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contacto 🤝 </h2>
+<h1 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contacto 🤝 </h1>
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/cbenitez191">
