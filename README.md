@@ -31,7 +31,8 @@
 <div>
   <p align="center">
 	<a href="https://github.com/cbenitez191/Administracion-servidores-windows">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Administracion-servidores-windows&theme=tokyonight" alt="GitHub Stats" />
+</a>
     	</a>
 	<a href="https://github.com/cbenitez191/Recopilacion-de-recursos-Pentesting">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
