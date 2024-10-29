@@ -27,7 +27,7 @@
       </div>
 </p>
 
-<br>
+<br><br>
 <!--Intro start-->
 - 🔭 Actualmente estoy trabajando en **AWS, Python, ciberseguridad, y desarrollo de herramientas de automatización**.
 
