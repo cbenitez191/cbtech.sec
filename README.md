@@ -96,7 +96,7 @@
 <br>
 
 <!-- Métricas -->
-<h1 align="center">⚙️ &nbsp;<h1>GitHub Analytics</h1>
+<h1 align="center">⚙️ GitHub Analytics</h1>
 	
 <p align="center">
 <a href="https://github.com/cbenitez191">
