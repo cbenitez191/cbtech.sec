@@ -48,8 +48,8 @@
     <a href="https://pandas.pydata.org/">
     <img src="https://img.shields.io/badge/Pandas-%230A8E3D.svg?style=plastic&logo=pandas&logoColor=white" alt="Pandas"></a>
   &emsp;
-    <a href="https://www.os.org/">
-    <img src="https://img.shields.io/badge/Operating%20System-%230066CC.svg?style=plastic&logo=linux&logoColor=white" alt="Operating System"></a>
+    <a href="https://docs.python.org/3/library/os.html">
+    <img src="https://img.shields.io/badge/Python%20OS-%234B8BBE.svg?style=plastic&logo=python&logoColor=white" alt="Python OS"></a>
   &emsp;
     <a href="https://www.gnu.org/software/bash/">
     <img alt="Bash" src="https://img.shields.io/badge/Bash-%234EAA27.svg?style=plastic&logo=gnu-bash&logoColor=white"></a> 
