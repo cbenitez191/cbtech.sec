@@ -31,25 +31,25 @@
 <div>
   <p align="center">
 	<a href="https://github.com/cbenitez191/Administracion-servidores-windows">
-    		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Administracion-servidores-windows&theme=tokyonight" alt="GitHub Stats" style="width: 200px; height: auto; margin: 10px;" />
+    		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Administracion-servidores-windows&theme=tokyonight" alt="GitHub Stats"  />
     	</a>
 	<a href="https://github.com/cbenitez191/Recopilacion-de-recursos-Pentesting">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Recopilacion-de-recursos-Pentesting&theme=tokyonight" aalt="GitHub Stats" style="width: 200px; height: auto; margin: 10px;" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Recopilacion-de-recursos-Pentesting&theme=tokyonight" aalt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/cbenitez191/Aprendinedo_Python">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Aprendinedo_Python&theme=tokyonight" alt="GitHub Stats" style="width: 200px; height: auto; margin: 10px;" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Aprendinedo_Python&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/cbenitez191/Generador-password-python">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Generador-password-python&theme=tokyonight" alt="GitHub Stats" style="width: 200px; height: auto; margin: 10px;" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Generador-password-python&theme=tokyonight" />
     	</a>
     	<a href="https://github.com/cbenitez191/Comprobar-directorio-Linux">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Comprobar-directorio-Linux&theme=tokyonight" alt="GitHub Stats" style="width: 200px; height: auto; margin: 10px;" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Comprobar-directorio-Linux&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/cbenitez191/Layout">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Layout&theme=tokyonight" alt="GitHub Stats" style="width: 200px; height: auto; margin: 10px;" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Layout&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/cbenitez191/cbenitez191">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=cbenitez191&theme=tokyonight" alt="GitHub Stats" style="width: 200px; height: auto; margin: 10px;" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=cbenitez191&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	
   </p>
