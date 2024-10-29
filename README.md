@@ -13,7 +13,8 @@
 </p>
 <div align="center">
 	
-## Sobre mí
+## Sobre mi
+<br>
 
 - 🔭 Actualmente estoy trabajando en **Administración de Sistemas, ciberseguridad, y desarrollo de herramientas de automatización**.
 - 🌱 Estoy aprendiendo **a mejorar mis habilidades en programación y desarrollo de aplicaciones con Python**.
