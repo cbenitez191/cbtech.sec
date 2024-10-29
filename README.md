@@ -155,7 +155,7 @@
 <!-- Redes sociales -->
 
 <br>
-<h1 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contacto 🤝 </h1>
+<h1 align="center" > <img src="https://github.com/cbenitez191/cbenitez191/blob/main/img/SEuy.gif?raw=true" width="30" height="30" style="margin-right: 10px;">Contacto 🤝 </h1>
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/cbenitez191">
