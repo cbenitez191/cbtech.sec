@@ -36,26 +36,35 @@
     <a href="https://www.kali.org/">
     <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-%231E9B5D.svg?style=plastic&logo=kali-linux&logoColor=white"></a>
   &emsp;
+    <a href="https://nmap.org/">
+    <img alt="Nmap" src="https://img.shields.io/badge/Nmap-%23F6F22D.svg?style=plastic&logo=nmap&logoColor=black"></a>
+  &emsp;
+     <a href="https://www.wireshark.org/">
+    <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-%232C5C93.svg?style=plastic&logo=wireshark&logoColor=white"></a>
+  &emsp;
+     <a href="https://www.veracrypt.fr/en/Home.html">
+    <img alt="VeraCrypt" src="https://img.shields.io/badge/VeraCrypt-%233D5B9A.svg?style=plastic&logo=veracrypt&logoColor=white"></a>
+  &emsp;
+     <a href="https://suricata-ids.org/">
+    <img alt="Suricata" src="https://img.shields.io/badge/Suricata-%23B22B27.svg?style=plastic&logo=suricata&logoColor=white"></a>
+  &emsp;
+     <a href="https://www.metasploit.com/">
+    <img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-%23000C0C.svg?style=plastic&logo=metasploit&logoColor=white"></a>
+  &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
   &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
+    <a href="https://www.python.org/">
+    <img alt="Python" src="https://img.shields.io/badge/Python-%233B77A0.svg?style=plastic&logo=python&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
+    <a href="https://www.gnu.org/software/bash/">
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-%234EAA27.svg?style=plastic&logo=gnu-bash&logoColor=white"></a> 
   &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
-   
+    <a href="https://www.w3.org/Style/CSS/">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?style=plastic&logo=css3&logoColor=white"></a>
 </p>
 <br>
 
@@ -66,15 +75,19 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
+    <a href="https://www.microsoft.com/en-us/windows-server">
+    <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=plastic&logo=microsoft&logoColor=white" alt="Windows Server"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
+  &emsp;
+    <a href="https://www.debian.org/">
+    <img src="https://img.shields.io/badge/Debian-A81D24?style=plastic&logo=debian&logoColor=white" alt="Debian"></a>
 </p>
 <br>
 
