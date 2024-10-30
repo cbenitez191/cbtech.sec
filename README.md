@@ -142,7 +142,7 @@
 <br>
 
 <!-- Métricas -->
-<h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/SEuy.gif?raw=true" width = 40px>  </picture>GitHub Analytics</h1>
+<h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/SEuy.gif?raw=true" width = 40px">  </picture>GitHub Analytics</h1>
  <br>
 
 <p align="center">
