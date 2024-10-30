@@ -1,11 +1,9 @@
 <!-- Download Button -->
-<div style="text-align: right;">
-    <a href="https://github.com/cbenitez191/cbenitez191/blob/main/pdf/Carlos%20Arturo%20Benitez.pdf" style="text-decoration: none;">
-        <button style="background-color: #28a745; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">
-            Descargar CV
-        </button>
+<p align="center">
+    <a href="https://github.com/cbenitez191/cbenitez191/blob/main/pdf/Carlos%20Arturo%20Benitez.pdf">
+        <img src="https://img.shields.io/badge/Descargar%20CV-%23007BFF.svg?style=plastic&logo=download&logoColor=white" alt="Download CV" height="30px" width="160px" />
     </a>
-</div>
+</p>
 
 <!-- Welcome profile -->
 <div align="center">
