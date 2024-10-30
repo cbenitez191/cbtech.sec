@@ -108,7 +108,9 @@
 
 <!-- Listado repositorios -->
 
-<details align="center"><summary><h1> :open_file_folder: My Repositories</h1></summary>
+<h1 align="center">:open_file_folder: My Repositories </h1>
+
+<details align="center"><summary><h1> :page_facing_up: Archives</h1></summary>
 
 ----
 	
@@ -154,7 +156,7 @@
 
 <!-- Redes sociales -->
 <br>
-<h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/contactme.png?raw=true" width = 40px">  </picture>GitHub Analytics</h1>
+<h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/contactme.png?raw=true" width = 40px">  </picture>Contact with me</h1>
 
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
