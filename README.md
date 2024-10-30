@@ -1,3 +1,12 @@
+<!-- Download Button -->
+<div style="text-align: right; margin: 20px;">
+    <a href="https://github.com/cbenitez191/cbenitez191/blob/main/pdf/Carlos%20Arturo%20Benitez.pdf" style="text-decoration: none;">
+        <button style="background-color: #007BFF; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">
+            Descargar Mi CD
+        </button>
+    </a>
+</div>
+
 <!-- Welcome profile -->
 <div align="center">
 <h1 align="center">👋 Hi! <a href="https://cbenitez.net">I'm Carlos Benitez</a></h1>
