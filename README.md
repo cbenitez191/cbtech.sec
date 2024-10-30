@@ -30,7 +30,7 @@
 
 <!-- Herrramientas y software -->
 
-<h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/software.png?raw=true" width = 50px>  </picture> Tools & Software</h1>
+<h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/software.png?raw=true" width = 40px>  </picture> Tools & Software</h1>
  <br>
  
 <p align="center">
