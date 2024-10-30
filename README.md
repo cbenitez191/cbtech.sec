@@ -1,8 +1,8 @@
 <!-- Download Button -->
-<div style="text-align: right; margin: 20px;">
+<div style="text-align: right;">
     <a href="https://github.com/cbenitez191/cbenitez191/blob/main/pdf/Carlos%20Arturo%20Benitez.pdf" style="text-decoration: none;">
-        <button style="background-color: #007BFF; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">
-            Descargar Mi CD
+        <button style="background-color: #28a745; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">
+            Descargar CV
         </button>
     </a>
 </div>
@@ -18,7 +18,7 @@
 	<img src="https://komarev.com/ghpvc/?username=cbenitez191&label=Profile%20views&color=brightgreen&style=plastic?" alt="cbenitez191" height=20px, width=140px/> 
 </p>
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
 <!-- About Me -->
