@@ -110,10 +110,6 @@
 
 <h1 align="center">:open_file_folder: My Repositories </h1>
 
-<details align="center"><summary><h1> :page_facing_up: Archives</h1></summary>
-
-----
-	
 <div>
   <p align="center">
 	<a href="https://github.com/cbenitez191/Administracion-servidores-windows">
