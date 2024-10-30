@@ -154,9 +154,7 @@
 
 <!-- Redes sociales -->
 <br>
-<h2 align="center" > <img src="https://github.com/cbenitez191/cbenitez191/blob/main/img/7SiC.gif?raw=true" width="30" height="30" style="margin-right: 10px;">Connect with me</h2>
-
-------
+<h1 align="center" > <img src="https://github.com/cbenitez191/cbenitez191/blob/main/img/7SiC.gif?raw=true" width="30" height="30" style="margin-right: 10px;">Connect with me</h1>
 
 <br>
 <p align="center">
