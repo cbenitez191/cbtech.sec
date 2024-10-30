@@ -170,8 +170,10 @@
       </div>
 </p>
 
+
 ------
 
-Credit: [Carlos Benitez](https://github.com/cbenitez191)
-
-Last edited on: 20/10/2024
+<div align="center">
+  :rocket: Thanks for watching my profile! Have a nice day! :sunglasses: <br/>
+  &copy; 2024 Carlos Benitez
+</div>
