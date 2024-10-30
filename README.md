@@ -26,7 +26,7 @@
 - 📝 Regularmente escribo artículos sobre tecnología y desarrollo en [cbenitez.net](https://cbenitez.net/blog).
 - 📫 No dudes en contactarme a través de **cbenitez191@gmail.com**.
 
-<br>
+<br><br>
 
 <!-- Herrramientas y software -->
 
