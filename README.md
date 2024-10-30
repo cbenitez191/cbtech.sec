@@ -154,9 +154,8 @@
 
 <!-- Redes sociales -->
 <br>
-<h1 align="center" > <img src="https://github.com/cbenitez191/cbenitez191/blob/main/img/contactme.png?raw=true" width="40" >Connect with me</h1>
+<h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/contactme.png?raw=true" width = 40px">  </picture>GitHub Analytics</h1>
 
-<br>
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/cbenitez191">
@@ -169,7 +168,7 @@
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
       </div>
 </p>
-
+<br>
 
 ------
 
