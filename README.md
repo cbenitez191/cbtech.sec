@@ -14,23 +14,23 @@
 
 <!-- About Me -->
 
-<h1 align="center"><img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/about_me.gif?raw=true" width = 50px></picture>About Me</h1>
+<h1 align="center"><img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/about_me.gif?raw=true" width = 50px></picture>About me</h1>
 
 <picture> <img align="right" src="https://github.com/cbenitez191/cbenitez191/blob/main/img/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br>
 
-- 🔭 Actualmente estoy trabajando en **Administración de Sistemas, ciberseguridad, y desarrollo de herramientas de automatización**.
-- 🌱 Estoy aprendiendo **a mejorar mis habilidades en programación y desarrollo de aplicaciones con Python**.
-- ☁️ Tengo un gran interés en la computación en la nube, así que estoy aprendiendo más sobre **AWS y sus servicios**.
-- 📝 Regularmente escribo artículos sobre tecnología y desarrollo en [Hashnode](https://cbenitez.net/blog).
+- 🔭 I work in **Systems Administration, cybersecurity**.
+- 🌱 I'm learning **to improve my skills in programming and application development with Python**.
+- ☁️ I have a great interest in Python development, so I'm learning more about **Automation and Machine Learning**.
+- 📝 Regularmente escribo artículos sobre tecnología y desarrollo en [cbenitez.net](https://cbenitez.net/blog).
 - 📫 No dudes en contactarme a través de **cbenitez191@gmail.com**.
 
 <br>
 
 <!-- Herrramientas y software -->
 
-<h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/5xDL.gif?raw=true" width = 50px>  </picture> Herramientas y Software</h1>
+<h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/5xDL.gif?raw=true" width = 50px>  </picture> Tools & Software</h1>
  <br>
  
 <p align="center">
@@ -85,7 +85,7 @@
 
 <!-- Sistemas Operativos -->
 
- <h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/OS.gif?raw=true" width = 50px>  </picture> Sistemas operativos</h1>
+ <h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/OS.gif?raw=true" width = 50px>  </picture>Operating systems</h1>
  <br>
  
 <p align="center">
@@ -154,7 +154,7 @@
 
 <!-- Redes sociales -->
 <br>
-<h1 align="center" > <img src="https://github.com/cbenitez191/cbenitez191/blob/main/img/7SiC.gif?raw=true" width="30" height="30" style="margin-right: 10px;">Contact</h1>
+<h1 align="center" > <img src="https://github.com/cbenitez191/cbenitez191/blob/main/img/7SiC.gif?raw=true" width="30" height="30" style="margin-right: 10px;">Connect with me</h1>
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/cbenitez191">
@@ -167,3 +167,8 @@
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
       </div>
 </p>
+------
+
+Credit: [Ahmed Fathy](https://github.com/cbenitez191)
+
+Last edited on: 20/10/2024
