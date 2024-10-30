@@ -125,13 +125,19 @@
   <a href="https://github.com/cbenitez191/AutoPy">
     		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=AutoPy&theme=tokyonight" alt="GitHub Stats"  />
     	</a>
+    	<a href="https://github.com/cbenitez191/Portafolio.py">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Portafolio.py&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/cbenitez191/Layout">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Layout&theme=tokyonight" />
+    	</a>
     	<a href="https://github.com/cbenitez191/PentestLibrary">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=PentestLibrary&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/cbenitez191/AdminGuides">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=AdminGuides&theme=tokyonight" />
     	</a>
-</p>
+  </p>
 </div>
 </details>
 <br>
