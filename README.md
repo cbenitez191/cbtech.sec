@@ -14,7 +14,7 @@
 
 <!-- About Me -->
 
-<h1 align="center"><img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/about_me.gif?raw=true" width = 50px></picture>About me</h1>
+<h1 align="center"><img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/about_me.gif?raw=true" width = 40px></picture>About me</h1>
 
 <picture> <img align="right" src="https://github.com/cbenitez191/cbenitez191/blob/main/img/Right_Side.gif?raw=true" width = 250px></picture>
 
@@ -142,7 +142,7 @@
 <br>
 
 <!-- Métricas -->
-<h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/Analitys.png?raw=true" width = 50px>  </picture>GitHub Analytics</h1>
+<h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/SEuy.gif?raw=true" width = 40px>  </picture>GitHub Analytics</h1>
  <br>
 
 <p align="center">
@@ -154,7 +154,7 @@
 
 <!-- Redes sociales -->
 <br>
-<h1 align="center" > <img src="https://github.com/cbenitez191/cbenitez191/blob/main/img/contactme.png?raw=true" width="30" height="30" style="margin-right: 10px;">Connect with me</h1>
+<h1 align="center" > <img src="https://github.com/cbenitez191/cbenitez191/blob/main/img/contactme.png?raw=true" width="40" >Connect with me</h1>
 
 <br>
 <p align="center">
