@@ -20,15 +20,17 @@
 
 <br>
 
-- 🔭 I work in **Systems Administration, cybersecurity**.
-- 🌱 I'm learning **to improve my skills in programming and application development with Python**.
-- ☁️ I have a great interest in Python development, so I'm learning more about **Automation and Machine Learning**.
-- 📝 Regularmente escribo artículos sobre tecnología y desarrollo en [cbenitez.net](https://cbenitez.net/blog).
-- 📫 No dudes en contactarme a través de **cbenitez191@gmail.com**.
+- 🔭 I work in **infrastructure administration and support**.
+- 💻 I am a `Junior` **Python develope**r.
+- 🌱 I am improving my skills in **programming and application development with Python**.
+- ☁️ I have a great interest in `Python development`, so I'm learning more about **Automation and Machine Learning**.
+- 📝 Always `learning new things`.
+- ✍️ In my free time,`I write articles` about technology and development on [Medium](https://medium.com/@cbenitez191).
+- 📫 Feel free to contact me at **cbenitez191@gmail.com**.
 
 <br><br>
 
-<!-- Herrramientas y software -->
+<!-- Tools & Software -->
 
 <h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/software.png?raw=true" width = 40px>  </picture> Tools & Software</h1>
  <br>
@@ -83,7 +85,7 @@
 </p>
 <br>
 
-<!-- Sistemas Operativos -->
+<!-- Operating systems -->
 
  <h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/OS.gif?raw=true" width = 50px>  </picture>Operating systems</h1>
  <br>
@@ -104,17 +106,17 @@
 </p>
 <br>
 
-<!-- Listado repositorios -->
+<!-- My Repositories -->
 
 <h1 align="center">:open_file_folder: My Repositories </h1>
 
 <div>
   <p align="center">
-	<a href="https://github.com/cbenitez191/Python4Security">
-    		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Python4Security&theme=tokyonight" alt="GitHub Stats"  />
-    	</a>
 	<a href="https://github.com/cbenitez191/AutoPy">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=AutoPy&theme=tokyonight" aalt="GitHub Stats" />
+    	</a>
+  <a href="https://github.com/cbenitez191/Python4Security">
+    		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Python4Security&theme=tokyonight" alt="GitHub Stats"  />
     	</a>
     	<a href="https://github.com/cbenitez191/PentestLibrary">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=PentestLibrary&theme=tokyonight" alt="GitHub Stats" />
@@ -127,7 +129,7 @@
 </details>
 <br>
 
-<!-- Métricas -->
+<!-- GitHub Analytics -->
 <h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/SEuy.gif?raw=true" width = 40px">  </picture>GitHub Analytics</h1>
  <br>
 
@@ -138,7 +140,7 @@
 </a>
 </p>
 
-<!-- Redes sociales -->
+<!-- Contact with me -->
 <br>
 <h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/contactme.png?raw=true" width = 40px">  </picture>Contact with me</h1>
 
