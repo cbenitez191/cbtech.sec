@@ -1,6 +1,6 @@
 <!-- Download Button -->
 <p align="right">
-    <a href="https://github.com/cbenitez191/cbenitez191/blob/main/pdf/Carlos%20Arturo%20Benitez.pdf">
+    <a href="https://drive.google.com/file/d/1B04znJ2yy6ZliCVJV98nvDG-iJls9-Dp/view?usp=sharing" download>
         <img src="https://img.shields.io/badge/Descargar%20CV-%23007BFF.svg?style=plastic&logo=download&logoColor=white" alt="Download CV" height="30px" width="160px" />
     </a>
 </p>
