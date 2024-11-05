@@ -27,13 +27,16 @@
 
 <br>
 
-- 🔭 I work in **infrastructure administration and support**.
-- 💻 I am a `Junior` **Python develope**r.
+- 🐍 Developer with one year of experience in Python, **exploring cybersecurity, automation and scraping tasks.**
+- 🔭 I have a great interest in `Python development`, so I'm learning more about **Automation and Machine Learning**.
+- 💻 I am passionate about problem resolution and the `process of transforming ideas as practical solutions`.
 - 🌱 I am improving my skills in **programming and application development with Python**.
-- ☁️ I have a great interest in `Python development`, so I'm learning more about **Automation and Machine Learning**.
+- 💼 I work in **infrastructure administration and support**.
 - 📝 Always `learning new things`.
 - ✍️ In my free time,`I write articles` about technology and development on [Medium](https://medium.com/@cbenitez191).
 - 📫 Feel free to contact me at **cbenitez191@gmail.com**.
+
+
 
 <br><br>
 
@@ -71,9 +74,6 @@
     <a href="https://www.watchguard.com/">
     <img src="https://img.shields.io/badge/WatchGuard-%23D92D2A.svg?style=plastic&logo=watchguard&logoColor=white" alt="WatchGuard"></a>
   &emsp;	
-    <a href="https://www.kali.org/">
-    <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-%231E9B5D.svg?style=plastic&logo=kali-linux&logoColor=white"></a>
-  &emsp;
     <a href="https://nmap.org/">
     <img alt="Nmap" src="https://img.shields.io/badge/Nmap-%23F6F22D.svg?style=plastic&logo=nmap&logoColor=black"></a>
   &emsp;
@@ -99,17 +99,16 @@
  
 <p align="center">
   &emsp;
-    <a href="https://www.microsoft.com/en-us/windows-server">
-    <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=plastic&logo=microsoft&logoColor=white" alt="Windows Server"></a>
-  &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
-  &emsp;
     <a href="https://www.debian.org/">
     <img src="https://img.shields.io/badge/Debian-A81D24?style=plastic&logo=debian&logoColor=white" alt="Debian"></a>
+  &emsp;
+    <a href="https://www.kali.org/">
+    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=plastic&logo=kalilinux&logoColor=white" alt="Kali Linux">
+</a>
 </p>
 <br>
 
