@@ -34,7 +34,7 @@
 - 💼 I work in **infrastructure administration and support**.
 - 📝 Always `learning new things`.
 - ✍️ In my free time,`I write articles` about technology and development on [Medium](https://medium.com/@cbenitez191).
-- 📫 Feel free to contact me at **cbenitez191@gmail.com**.
+- 📫 Feel free to contact me at **cbenitez191@protonmail.com**.
 
 
 
