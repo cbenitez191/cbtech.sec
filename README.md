@@ -124,32 +124,28 @@
 <a href="https://github.com/cbenitez191/Ciberseguridad" target="_blank"><img src="./img/Herramientas.JPG" width="400" alt="Herramientas Ciberseguridad"></a>
 <p>
 <a href="https://github.com/cbenitez191/Ciberseguridad" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+  <img src="https://img.shields.io/badge/CÓDIGO-FFA500?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://www.youtube.com/@Cbtech_Sec" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+  <img src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 </p>
 <p>En este proyecto, compartiré con ustedes una selección de <strong>videos y código</strong> que cubren temas relacionados con la seguridad informática. Es importante tener en cuenta que el contenido proporcionado en este proyecto es para fines educativos y de divulgación.<strong>Todo el contenido está disponible para descargar.</strong> </p>
-</div>
-                                                                                      
+</div>                                                                                      
 </td>
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Notas Ethical Hacking</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/cbenitez191/NotasEticalHacking" target="_blank"><img src="./img/Notas-hacking.JPG" width="400" alt="Notas Ethical Hacking"></a>
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>Este repositorio alberga una <strong>colección de notas y recursos relacionados con el hacking ético</strong>, enfocándose en la seguridad informática y la resolución de problemas. Donde compartire conocimientos, técnicas y herramientas de hacking, así como las experiencias.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
