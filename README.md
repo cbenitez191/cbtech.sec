@@ -188,7 +188,7 @@
 <br>
 
 <!-- GitHub Analytics -->
-<h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/SEuy.gif?raw=true" width = "40px">  </picture></h1>
+<h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/SEuy.gif?raw=true" width = "40px">  </picture>Desarrollo de Proyectos</h1>
  <br>
 
 <p align="center">
@@ -200,7 +200,7 @@
 
 <!-- Contact with me -->
 <br>
-<h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/contactme.png?raw=true" width = "40px">  </picture>Desarrollo de Proyectos</h1>
+<h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/contactme.png?raw=true" width = "40px">  </picture>Contacto</h1>
 
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
