@@ -148,6 +148,7 @@
 </div>                                                             
 </table>                                                                                 
 </div>
+</td>
 
 <table>
 <tr>
