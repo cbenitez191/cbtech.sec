@@ -118,7 +118,10 @@
 
 <div>
   <p align="center">
-<div class="galeria">
+<section id="portfolio" class="portfolio">
+        <div class="contenido-seccion">
+            <h2>PORTFOLIO</h2>
+            <div class="galeria">
                 <div class="proyecto">
                     <img src="img/Herramientas.JPG" alt="">
                     <div class="overlay">
@@ -186,6 +189,7 @@
             </div>
             <button id="verMasBtn">Ver más</button>
         </div>
+    </section>
   </p>
 </div>
 </details>
