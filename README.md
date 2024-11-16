@@ -195,16 +195,17 @@
 <h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/SEuy.gif?raw=true" width = "40px">  </picture>GitHub Analytics</h1>
  <br>
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cbenitez191&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cbenitez191&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
+<p align="center">
+<a href="https://github.com/cbenitez191">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cbenitez191&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cbenitez191&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
-
 
 
 <!-- Contact with me -->
 <br>
-<h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/contactme.png?raw=true" width = "40px">  </picture>Contacto</h1>
+<h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/contactme.png?raw=true" width = 40px">  </picture>Contacto</h1>
 
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
