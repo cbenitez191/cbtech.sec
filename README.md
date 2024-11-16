@@ -114,10 +114,8 @@
 
 <!-- My Repositories -->
 
-<h1 align="center">:open_file_folder: Portafolio</h1>
+<h1 align="center">:open_file_folder: Proyectos</h1>
 
-<div>
-  <p align="center">
 <table>
 <tr>
 <td width="50%">
