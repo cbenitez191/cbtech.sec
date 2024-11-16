@@ -121,7 +121,7 @@
 <td width="50%">
 <h3 align="center">Herramientas Ciberseguridad</h3>
 <div align="center">
-<a href="https://github.com/cbenitez191/Ciberseguridad" target="_blank"><img src="./img/Herramientas.JPG" width="400" alt="Herramientas Ciberseguridad"></a>
+<a href="https://www.youtube.com/@Cbtech_Sec" target="_blank"><img src="./img/Herramientas.JPG" width="400" alt="Herramientas Ciberseguridad"></a>
 <p>
 <a href="https://github.com/cbenitez191/Ciberseguridad" target="_blank">
   <img src="https://img.shields.io/badge/CÓDIGO-FFA500?style=for-the-badge&logo=github&logoColor=black">
@@ -141,7 +141,7 @@
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+  <img src="https://img.shields.io/badge/CÓDIGO-FFA500?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 </p>Este repositorio alberga una <strong>colección de notas y recursos relacionados con el hacking ético</strong>, enfocándose en la seguridad informática y la resolución de problemas. Donde compartire conocimientos, técnicas y herramientas de hacking, así como las experiencias.</p>
@@ -150,43 +150,43 @@
 </div>
 </td>
 
+
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
+<h3 align="center">Escaneo de Puertos con Python</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
+<a href="https://www.youtube.com/@Cbtech_Sec" target="_blank"><img src="./img/Escaneo-puertos.JPG" width="400" alt="Escaneo de Puertos con Python"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/cbenitez191/Escaneo-de-Puertos" target="_blank">
+  <img src="https://img.shields.io/badge/CÓDIGO-FFA500?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<a href="https://www.youtube.com/@Cbtech_Sec" target="_blank">
+  <img src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p>Este proyecto utiliza <strong>Python y la biblioteca scapy </strong>para realizar un escaneo de puertos en una red. El objetivo es detectar los puertos abiertos en un objetivo y determinar que servicios especificos están utilizando.</p>
 </div>
                                                                                       
 </td>       
 
 <td width="50%">
-<h3 align="center">Curso Kotlin Multiplatform</h3>
+<h3 align="center">Generador de contraseñas</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="https://www.youtube.com/@Cbtech_Sec" target="_blank"><img src="./img/Gen-pass.JPG" width="400" alt="Generador de contraseñas"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/cbenitez191/Escaneo-de-Puertos" target="_blank">
+  <img src="https://img.shields.io/badge/CÓDIGO-FFA500?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+<a href="https://www.youtube.com/@Cbtech_Sec" target="_blank">
+  <img src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
+<p>Este proyecto utiliza Python y la biblioteca <strong>secrets </strong>para generar contraseñas seguras y únicas. El objetivo es crear una herramienta que pueda ser utilizada para generar contraseñas fuertes y complejas, adecuadas para proteger cuentas de usuarios en línea.</p>
+</div>                                                                                   
 </td>  
 </table>
-  </p>
+
 </div>
 </details>
 <br>
