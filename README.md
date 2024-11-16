@@ -130,7 +130,7 @@
   <img src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 </p>
-<p>En este proyecto, compartiré con ustedes una selección de <strong>videos y código</strong> que cubren temas relacionados con la seguridad informática. Es importante tener en cuenta que el contenido proporcionado en este proyecto es para fines educativos y de divulgación.<strong>Todo el contenido está disponible para descargar.</strong> </p>
+<p>En este proyecto, compartiré con ustedes una selección de <strong>videos y código</strong> que cubren temas relacionados con la seguridad informática. Es importante tener en cuenta que el contenido proporcionado en este proyecto es para fines educativos y de divulgación.
 </div>                                                                                      
 </td>
 
