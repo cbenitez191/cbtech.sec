@@ -165,7 +165,7 @@
   <img src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 </p>
-<p>Este proyecto utiliza <strong>Python y la biblioteca scapy </strong>para realizar un escaneo de puertos en una red. El objetivo es detectar los puertos abiertos en un objetivo y determinar que servicios especificos están utilizando. (Escaneo de puertos TCP y UDP)</p>
+<p>Este proyecto utiliza <strong>Python y la biblioteca scapy </strong>para realizar un escaneo de puertos en una red. El objetivo es detectar los puertos abiertos en un objetivo y determinar que servicios especificos están utilizando. Identificación de servicios asociados a los puertos abiertos ( HTTP, FTP, SSH, SQL, etc)</p>
 </div>
                                                                                       
 </td>       
