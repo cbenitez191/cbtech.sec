@@ -7,7 +7,7 @@
 
 <!-- Welcome profile -->
 <div align="center">
-<h1 align="center">👋 Hi! <a href="https://cbenitez.net">I'm Carlos Benitez</a></h1>
+<h1 align="center">👋 Hola! <a href="https://cbenitez.net">Soy Carlos Benitez</a></h1>
 </div>
 
 <!-- Profile views -->
@@ -21,20 +21,20 @@
 
 <!-- About Me -->
 
-<h1 align="center"><img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/about_me.gif?raw=true" width = 40px></picture>About me</h1>
+<h1 align="center"><img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/about_me.gif?raw=true" width = 40px></picture>Sobre Mi</h1>
 
 <picture> <img align="right" src="https://github.com/cbenitez191/cbenitez191/blob/main/img/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br>
 
-- 🐍 Developer with one year of experience in Python, **exploring cybersecurity, automation and scraping tasks.**
-- 🔭 I have a great interest in `Python development`, so I'm learning more about **Automation and Machine Learning**.
-- 💻 I am passionate about problem resolution and the `process of transforming ideas as practical solutions`.
-- 🌱 I am improving my skills in **programming and application development with Python**.
-- 💼 I work in **infrastructure administration and support**.
-- 📝 Always `learning new things`.
-- ✍️ In my free time,`I write articles` about technology and development on [Medium](https://medium.com/@cbenitez191).
-- 📫 Feel free to contact me at **cbenitez191@protonmail.com**.
+- 🐍 Desarrollador con un año de experiencia en Python, **explorando tareas de ciberseguridad, automatización y scraping.**.
+- 🔭 Tengo un gran interés en el desarrollo `Python`, por lo que estoy aprendiendo más sobre **Automatización y Machine Learning**.
+- 💻 Me apasiona la resolución de problemas y el `proceso de transformar ideas en soluciones prácticas`.
+- 🌱 Estoy mejorando mis habilidades en **programación y desarrollo de aplicaciones con Python**.
+- 💼 Trabajo en **administración y soporte de infraestructuras**.
+- 📝 Siempre `aprendiendo nuevas cosas`.
+- ✍️ En mi tiempo libre, escribo artículos sobre tecnología y desarrollo en [Medium](https://medium.com/@cbenitez191).
+- 📫 No dude en ponerse en contacto conmigo en **cbenitez191@protonmail.com**.
 
 
 
@@ -42,7 +42,7 @@
 
 <!-- Tools & Software -->
 
-<h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/software.png?raw=true" width = 40px>  </picture> Tools & Software</h1>
+<h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/software.png?raw=true" width = 40px>  </picture> Habilidades Técnicas</h1>
  <br>
  
 <p align="center">
@@ -94,7 +94,7 @@
 
 <!-- Operating systems -->
 
- <h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/OS.gif?raw=true" width = 50px>  </picture>Operating systems</h1>
+ <h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/OS.gif?raw=true" width = 50px>  </picture>Sistemas Operativos</h1>
  <br>
  
 <p align="center">
@@ -114,28 +114,78 @@
 
 <!-- My Repositories -->
 
-<h1 align="center">:open_file_folder: My Repositories </h1>
+<h1 align="center">:open_file_folder: Portafolio</h1>
 
 <div>
   <p align="center">
-	<a href="https://github.com/cbenitez191/Python2Security">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Python2Security&theme=tokyonight" aalt="GitHub Stats" />
-    	</a>
-  <a href="https://github.com/cbenitez191/AutoPy">
-    		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=AutoPy&theme=tokyonight" alt="GitHub Stats"  />
-    	</a>
-    	<a href="https://github.com/cbenitez191/Portafolio.py">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Portafolio.py&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/cbenitez191/Layout">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=Layout&theme=tokyonight" />
-    	</a>
-    	<a href="https://github.com/cbenitez191/PentestLibrary">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=PentestLibrary&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/cbenitez191/AdminGuides">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=cbenitez191&repo=AdminGuides&theme=tokyonight" />
-    	</a>
+<div class="galeria">
+                <div class="proyecto">
+                    <img src="img/Herramientas.JPG" alt="">
+                    <div class="overlay">
+                        <h3>Ciberseguridad</h3>
+                        <p>Herramientas</p>
+                    </div>
+                </div>
+                <div class="proyecto">
+                    <img src="img/Monitorear-cpu.JPG" alt="">
+                    <div class="overlay">
+                        <h3>Monitoreo CPU</h3>
+                        <p>Ciberseguridad</p>
+                    </div>
+                </div>
+                <div class="proyecto">
+                    <img src="img/Escaneo-puertos.JPG" alt="">
+                    <div class="overlay">
+                        <h3>Escaneo de puertos</h3>
+                        <p>Pentesting</p>
+                    </div>
+                </div>
+                <div class="proyecto">
+                    <img src="img/Gen-pass.JPG" alt="">
+                    <div class="overlay">
+                        <h3>Generador contraseña</h3>
+                        <p>Ciberseguridad</p>
+                    </div>
+                </div>
+                <div class="proyecto">
+                    <img src="img/Notas-hacking.JPG" alt="">
+                    <div class="overlay">
+                        <h3>Notas Etical Hacking</h3>
+                        <p>Pentesting</p>
+                    </div>
+                </div>
+                <div class="proyecto">
+                    <img src="img/Compresor-pdf.JPG" alt="">
+                    <div class="overlay">
+                        <h3>Compresor PDF</h3>
+                        <p>Automatización</p>
+                    </div>
+                </div>
+                <div class="proyecto oculto">
+                    <img src="img/videos.jpg" alt="">
+                    <div class="overlay">
+                        <h3>Diseño Creativo</h3>
+                        <p>Fotografía</p>
+                    </div>
+                </div>
+                <div class="proyecto oculto">
+                    <img src="img/videos.jpg" alt="">
+                    <div class="overlay">
+                        <h3>Diseño Creativo</h3>
+                        <p>Fotografía</p>
+                    </div>
+                </div>
+                <div class="proyecto oculto">
+                    <img src="img/Curso-python.JPG" alt="">
+                    <div class="overlay">
+                        <h3>Curso de Python basico</h3>
+                        <p>Programación</p>
+                    </div>
+                </div>
+                <!-- Proyectos adicionales ocultos -->
+            </div>
+            <button id="verMasBtn">Ver más</button>
+        </div>
   </p>
 </div>
 </details>
@@ -154,7 +204,7 @@
 
 <!-- Contact with me -->
 <br>
-<h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/contactme.png?raw=true" width = 40px">  </picture>Contact with me</h1>
+<h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/contactme.png?raw=true" width = 40px">  </picture>Contacto</h1>
 
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
@@ -173,7 +223,7 @@
 ------
 
 <div align="center">
-  :rocket: Thanks for watching my profile! Have a nice day! :sunglasses: <br/>
+  :rocket: ¡Gracias por ver mi perfil! ¡Que tengas un buen día! :sunglasses: <br/>
   &copy; 2024 Carlos Benitez
 </div>
 
