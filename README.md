@@ -195,12 +195,12 @@
 <h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/SEuy.gif?raw=true" width = "40px">  </picture>GitHub Analytics</h1>
  <br>
 
-<p align="left">
+<div style="text-align: left;">
   <a href="https://github.com/cbenitez191">
-    <img height="180em" style="display: inline-block;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cbenitez191&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" style="display: inline-block;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cbenitez191&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cbenitez191&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cbenitez191&layout=compact&langs_count=8&theme=algolia"/>
   </a>
-</p>
+</div>
 
 
 <!-- Contact with me -->
