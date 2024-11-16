@@ -178,7 +178,7 @@
   <img src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 </p>
-<p>Este proyecto utiliza Python y la biblioteca <strong>secrets </strong>para generar contraseñas seguras y únicas. El objetivo es crear una herramienta que pueda ser utilizada para generar contraseñas fuertes y complejas, adecuadas para proteger cuentas de usuarios en línea. Algoritmos de criptografía para contraseñas seguras.</p>
+<p>Este proyecto utiliza Python y la biblioteca <strong>secrets</strong>para generar contraseñas seguras y únicas. El objetivo es crear una herramienta que pueda ser utilizada para generar contraseñas fuertes y complejas, adecuadas para proteger cuentas de usuarios en línea. Algoritmos de criptografía para contraseñas seguras.</p>
 </div>                                                                                   
 </td>  
 </table>
