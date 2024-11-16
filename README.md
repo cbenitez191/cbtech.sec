@@ -135,7 +135,6 @@
 </td>
 
 <td width="50%">
-               <br>
 <h3 align="center">Notas Ethical Hacking</h3>
 <div align="center">                                       
 <a href="https://github.com/cbenitez191/NotasEticalHacking" target="_blank"><img src="./img/Notas-hacking.JPG" width="400" alt="Notas Ethical Hacking"></a>
@@ -149,7 +148,6 @@
 </div>                                                             
 </table>                                                                                 
 </div>
-<br>
 
 <table>
 <tr>
