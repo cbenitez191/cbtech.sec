@@ -165,7 +165,7 @@
   <img src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 </p>
-<p>Este proyecto utiliza <strong>Python y la biblioteca scapy </strong>para realizar un escaneo de puertos en una red. El objetivo es detectar los puertos abiertos en un objetivo y determinar que servicios especificos están utilizando.</p>
+<p>Este proyecto utiliza <strong>Python y la biblioteca scapy </strong>para realizar un escaneo de puertos en una red. El objetivo es detectar los puertos abiertos en un objetivo y determinar que servicios especificos están utilizando. (Escaneo de puertos TCP y UDP)</p>
 </div>
                                                                                       
 </td>       
@@ -182,7 +182,7 @@
   <img src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 </p>
-<p>Este proyecto utiliza Python y la biblioteca <strong>secrets </strong>para generar contraseñas seguras y únicas. El objetivo es crear una herramienta que pueda ser utilizada para generar contraseñas fuertes y complejas, adecuadas para proteger cuentas de usuarios en línea.</p>
+<p>Este proyecto utiliza Python y la biblioteca <strong>secrets </strong>para generar contraseñas seguras y únicas. El objetivo es crear una herramienta que pueda ser utilizada para generar contraseñas fuertes y complejas, adecuadas para proteger cuentas de usuarios en línea. Utilización de algoritmos de criptografía para generar contraseñas seguras</p>
 </div>                                                                                   
 </td>  
 </table>
