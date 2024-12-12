@@ -136,7 +136,7 @@
 <a href="https://github.com/cbenitez191/NotasEticalHacking" target="_blank"><img src="./img/Notas-hacking.JPG" width="400" alt="Notas Ethical Hacking"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<a href="https://github.com/cbenitez191/NotasEticalHacking" target="_blank">
   <img src="https://img.shields.io/badge/CÓDIGO-FFA500?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
