@@ -1,5 +1,5 @@
 <p align="right">
-    <a href="https://drive.google.com/uc?export=download&id=179WUGckD34sP70eYVPD1d1vNCFDakLWP" download="CV_CarlosBenitez.pdf">
+    <a href="https://drive.google.com/uc?export=download&id=1Y_Z9VnWztuAD42yNHfKhUBOJSSWS0dJ3" download="CV_CarlosBenitez.pdf">
         <img src="https://img.shields.io/badge/Descargar%20CV-%23007BFF.svg?style=plastic&logo=download&logoColor=white" alt="Download CV" height="30px" width="160px" />
     </a>
 </p>
@@ -29,8 +29,8 @@
 
 - 🌐 Trabajo en la **administración y soporte de infraestructuras, con experiencia en redes, gestión de VPNs, firewalls y monitoreo de tráfico**.
 - 🐍 Utilizo Python para automatizar **tareas de gestión, monitoreo y mejora de infraestructuras**.
+- 🌱 Estoy mejorando mis **habilidades en programación y desarrollo de aplicaciones con Python**.
 - 🔭 Tengo un gran interés en el desarrollo con `Python`, por lo que estoy aprendiendo más sobre **Automatización y Machine Learning**.
-- 🌱 Estoy mejorando mis habilidades en **programación y desarrollo de aplicaciones con Python**.
 - 💻 Me apasiona la resolución de problemas y el `proceso de transformar ideas en soluciones prácticas`.
 - 📝 Siempre `aprendiendo nuevas cosas`.
 - ✍️ En mi tiempo libre, escribo artículos sobre tecnología y desarrollo en [Medium](https://medium.com/@cbenitez191).
