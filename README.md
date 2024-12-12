@@ -171,7 +171,7 @@
 <div align="center">
 <a href="https://www.youtube.com/@Cbtech_Sec" target="_blank"><img src="./img/Gen-pass.JPG" width="400" alt="Generador de contraseñas"></a>
 <p>
-<a href="https://github.com/cbenitez191/Escaneo-de-Puertos" target="_blank">
+<a href="https://github.com/cbenitez191/Contrase-as-seguras" target="_blank">
   <img src="https://img.shields.io/badge/CÓDIGO-FFA500?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://www.youtube.com/@Cbtech_Sec" target="_blank">
