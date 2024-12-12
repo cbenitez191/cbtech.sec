@@ -203,20 +203,16 @@
 <h1 align="center"><picture> <img src = "https://github.com/cbenitez191/cbenitez191/blob/main/img/contactme.png?raw=true" width = "40px">  </picture>Contacto</h1>
 
 <p align="center">
- <div align="center" class="icons-social" style="margin-left: 10px;">
-    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/cbenitez191">
-        <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn">
-    </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://github.com/cbenitez191">
-        <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub">
-    </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://x.com/Cbtech_Sec">
-        <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" alt="Twitter">
-    </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@Cbtech_Sec">
-        <img src="https://img.icons8.com/doodle/1x/youtube--v2.png" alt="YouTube">
-    </a>
-</div>
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/cbenitez191">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/cbenitez191">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://x.com/Cbtech_Sec">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@Cbtech_Sec">
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+  </div>
 </p>
 <br>
 
