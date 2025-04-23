@@ -34,7 +34,7 @@
 - 💻 Me apasiona la resolución de problemas y el `proceso de transformar ideas en soluciones prácticas`.
 - 📝 Siempre `aprendiendo nuevas cosas`.
 - ✍️ En mi tiempo libre, escribo artículos sobre tecnología y desarrollo en [Medium](https://medium.com/@cbenitez191).
-- 📫 No dude en ponerse en contacto conmigo en **cbenitez191@protonmail.com**.
+- 📫 No dude en ponerse en contacto conmigo en **cbtech.sec@proton.me**.
 
 
 
@@ -50,17 +50,12 @@
     <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"></a>
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
   &emsp;
     <a href="https://www.python.org/">
     <img alt="Python" src="https://img.shields.io/badge/Python-%233B77A0.svg?style=plastic&logo=python&logoColor=white"></a>
-  &emsp;
-    <a href="https://pandas.pydata.org/">
-    <img src="https://img.shields.io/badge/Pandas-%230A8E3D.svg?style=plastic&logo=pandas&logoColor=white" alt="Pandas"></a>
   &emsp;
     <a href="https://www.gnu.org/software/bash/">
     <img alt="Bash" src="https://img.shields.io/badge/Bash-%234EAA27.svg?style=plastic&logo=gnu-bash&logoColor=white"></a> 
@@ -85,6 +80,15 @@
   &emsp;
      <a href="https://www.metasploit.com/">
     <img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-%23000C0C.svg?style=plastic&logo=metasploit&logoColor=white"></a>
+  &emsp;
+    <a href="https://github.com/hashcat/hashcat">
+    <img src="https://img.shields.io/badge/Hashcat-%23D92D2A.svg?style=plastic&logo=github&logoColor=white" alt="Hashcat"></a>
+  &emsp;
+    <a href="https://github.com/sullo/nikto">
+    <img src="https://img.shields.io/badge/Nikto-%23D92D2A.svg?style=plastic&logo=github&logoColor=white" alt="Nikto"></a>
+  &emsp;
+    <a href="https://github.com/vanhauser-thc/thc-hydra">
+    <img src="https://img.shields.io/badge/Hydra-%23D92D2A.svg?style=plastic&logo=github&logoColor=white" alt="Hydra"></a>
 </p>
 <br>
 
@@ -95,16 +99,15 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Windows Server-0078D6?style=plastic&logo=windows&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Ubuntu Server-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;
     <a href="https://www.debian.org/">
     <img src="https://img.shields.io/badge/Debian-A81D24?style=plastic&logo=debian&logoColor=white" alt="Debian"></a>
   &emsp;
     <a href="https://www.kali.org/">
-    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=plastic&logo=kalilinux&logoColor=white" alt="Kali Linux">
-</a>
+    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=plastic&logo=kalilinux&logoColor=white" alt="Kali Linux"></a>
 </p>
 <br>
 
