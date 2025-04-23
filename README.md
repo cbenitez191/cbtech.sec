@@ -81,14 +81,14 @@
      <a href="https://www.metasploit.com/">
     <img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-%23000C0C.svg?style=plastic&logo=metasploit&logoColor=white"></a>
   &emsp;
-    <a href="https://github.com/hashcat/hashcat">
-    <img src="https://img.shields.io/badge/Hashcat-%23D92D2A.svg?style=plastic&logo=github&logoColor=white" alt="Hashcat"></a>
+<a href="https://github.com/hashcat/hashcat">
+    <img src="https://img.shields.io/badge/Hashcat-%23D92D2A.svg?style=plastic" alt="Hashcat"></a>
   &emsp;
-    <a href="https://github.com/sullo/nikto">
-    <img src="https://img.shields.io/badge/Nikto-%23D92D2A.svg?style=plastic&logo=github&logoColor=white" alt="Nikto"></a>
+<a href="https://github.com/sullo/nikto">
+    <img src="https://img.shields.io/badge/Nikto-%23D92D2A.svg?style=plastic" alt="Nikto"></a>
   &emsp;
-    <a href="https://github.com/vanhauser-thc/thc-hydra">
-    <img src="https://img.shields.io/badge/Hydra-%23D92D2A.svg?style=plastic&logo=github&logoColor=white" alt="Hydra"></a>
+<a href="https://github.com/vanhauser-thc/thc-hydra">
+    <img src="https://img.shields.io/badge/Hydra-%23D92D2A.svg?style=plastic" alt="Hydra"></a>
 </p>
 <br>
 
