@@ -64,7 +64,7 @@
 </td>
 
 <td width="50%">
-<h3 align="center">🧪 Pentestingd</h3>
+<h3 align="center">🧪 Pentesting</h3>
 <div align="center"> 
 <a href="https://www.youtube.com/@Cbtech_Sec" target="_blank"><img src="./img/Notas-hacking.JPG" width="400" alt="Herramientas Ciberseguridad"></a>
 <p>
