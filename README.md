@@ -60,7 +60,6 @@
 </a>
 </p>
 <p>Este proyecto recopila un conjunto de herramientas, recursos, código y videos enfocados en la seguridad informática práctica. Se incluyen aplicaciones como VeraCrypt, Suricata y utilidades de análisis forense y protección de sistemas.
-	🎯 Enfoque: educativos y de divulgación.
 </div>                                                                                      
 </td>
 
@@ -73,7 +72,7 @@
   <img src="https://img.shields.io/badge/CÓDIGO-FFA500?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Este repositorio alberga una <strong>colección de notas y recursos relacionados con el hacking ético</strong>, enfocándose en la seguridad informática y la resolución de problemas. Donde compartire conocimientos, técnicas y herramientas de hacking, así como las experiencias.</p>
+</p>Este repositorio contiene una colección de notas técnicas y recursos teóricos sobre hacking ético, incluyendo comandos, ejemplos de herramientas y escenarios de laboratorio. Está diseñado como una bitácora personal de aprendizaje continuo, orientado a la identificación, explotación y mitigación de vulnerabilidades.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
@@ -94,7 +93,7 @@
   <img src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 </p>
-<p>Este proyecto utiliza <strong>Python y la biblioteca scapy </strong>para realizar un escaneo de puertos en una red. El objetivo es detectar los puertos abiertos en un objetivo y determinar que servicios especificos están utilizando. Identificación de servicios asociados a los puertos abiertos ( HTTP, FTP, SSH, SQL, etc)</p>
+<p>Este proyecto aborda la segmentación de red, reglas de firewall, creación de VLANs y el principio de mínimo privilegio aplicado en entornos empresariales. Incluye simulaciones de tráfico inseguro, detección de amenazas, y documentación de herramientas como pfSense, WatchGuard, ModSecurity y Suricata.</p>
 </div>
                                                                                       
 </td>       
@@ -111,7 +110,7 @@
   <img src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 </p>
-<p>Este proyecto utiliza Python y la biblioteca <strong>secrets</strong>para generar contraseñas únicas. El objetivo es crear una herramienta que pueda ser utilizada para generar contraseñas fuertes y complejas, adecuadas para proteger cuentas de usuarios en línea. Algoritmos de criptografía para contraseñas seguras.</p>
+<p>Herramienta escrita en Python que permite crear contraseñas fuertes y únicas, utilizando módulos como secrets, string y random. El objetivo es facilitar la generación de claves seguras para usuarios o sistemas, cumpliendo requisitos de complejidad..</p>
 </div>                                                                                   
 </td>  
 </table>
