@@ -48,7 +48,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Herramientas Ciberseguridad</h3>
+<h3 align="center">🧱 Herramientas Ciberseguridad</h3>
 <div align="center">
 <a href="https://www.youtube.com/@Cbtech_Sec" target="_blank"><img src="./img/Herramientas.JPG" width="400" alt="Herramientas Ciberseguridad"></a>
 <p>
@@ -64,7 +64,7 @@
 </td>
 
 <td width="50%">
-<h3 align="center">Notas Ethical Hacking</h3>
+<h3 align="center">🧪 Pentestingd</h3>
 <div align="center">                                       
 <a href="https://github.com/cbenitez191/NotasEticalHacking" target="_blank"><img src="./img/Notas-hacking.JPG" width="400" alt="Notas Ethical Hacking"></a>
 <br>
@@ -83,7 +83,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Escaneo de Puertos con Python</h3>
+<h3 align="center">Seguridad de redes y arquitectura</h3>
 <div align="center">
 <a href="https://www.youtube.com/@Cbtech_Sec" target="_blank"><img src="./img/Escaneo-puertos.JPG" width="400" alt="Escaneo de Puertos con Python"></a>
 <p>
