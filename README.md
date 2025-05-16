@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 </p>
-<p>En este proyecto, compartiré con ustedes una selección de <strong>videos y código</strong> que cubren temas relacionados con la seguridad informática. Es importante tener en cuenta que el contenido proporcionado en este proyecto es para fines educativos y de divulgación.
+<p>Este proyecto recopila un conjunto de herramientas, recursos, código y videos enfocados en la seguridad informática práctica. Se incluyen aplicaciones como VeraCrypt, Suricata y utilidades de análisis forense y protección de sistemas. Ideal para estudiantes y profesionales que desean explorar herramientas fundamentales del entorno defensivo y ofensivo de la ciberseguridad.
 </div>                                                                                      
 </td>
 
