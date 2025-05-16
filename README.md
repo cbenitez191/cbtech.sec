@@ -64,11 +64,8 @@
 </td>
 
 <td width="50%">
-<h3 align="center">🧪 Pentesting</h3>
-<div align="center">                                       
-<a href="https://github.com/cbenitez191/NotasEticalHacking" target="_blank"><img src="./img/Notas-hacking.JPG" width="400" alt="Notas Ethical Hacking"></a>
-<br>
-<p>
+<h3 align="center">🧪 Pentestingd</h3>
+<div align="center"> 
 <a href="https://www.youtube.com/@Cbtech_Sec" target="_blank"><img src="./img/Herramientas.JPG" width="400" alt="Herramientas Ciberseguridad"></a>
 <p>
 <a href="https://github.com/cbenitez191/NotasEticalHacking" target="_blank">
