@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 </p>
-<p>Este proyecto recopila un conjunto de herramientas, recursos, código y videos enfocados en la seguridad informática práctica. Se incluyen aplicaciones como VeraCrypt, Suricata y utilidades de análisis forense y protección de sistemas. Ideal para estudiantes y profesionales que desean explorar herramientas fundamentales de la ciberseguridad.
+<p>Este proyecto recopila un conjunto de herramientas, recursos, código y videos enfocados en la seguridad informática práctica. Se incluyen aplicaciones como VeraCrypt, Suricata y utilidades de análisis forense y protección de sistemas. Ideal para estudiantes y profesionales que desean explorar herramientas de ciberseguridad.
 </div>                                                                                      
 </td>
 
